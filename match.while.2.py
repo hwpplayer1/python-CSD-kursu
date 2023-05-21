@@ -1,8 +1,8 @@
 while True:
     cmd = input('CSD>').strip()
     match cmd:
-        case 'delete' | 'remove' 'erase':
-            print('silme işlemi')
+        case 'delete' | 'remove' | 'erase' as x:
+            print(f'silme işlemi "(x)" komutu ile yapılıyor')
         case 'copy':
             print('kopyalama işlemi')
         case 'rename':
