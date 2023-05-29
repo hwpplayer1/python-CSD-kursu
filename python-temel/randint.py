@@ -1,3 +1,5 @@
+import random
+
 for i in range(10):
     val = random.randint(0, 99)
     print(val, end = ' ')
