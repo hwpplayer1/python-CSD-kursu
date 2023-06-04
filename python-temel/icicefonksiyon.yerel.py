@@ -1,0 +1,10 @@
+def foo():
+    x = 10
+    def bar():
+        #print(x)                 # error
+        x = 20
+        print(x)
+    bar()
+    print(x)
+
+foo()
