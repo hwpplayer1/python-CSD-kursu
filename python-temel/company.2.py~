@@ -1,0 +1,10 @@
+class Employee:
+    def __init__(self, name, address):
+        self.name = name
+        self.address = address
+
+    def disp(self):
+        print('Adı Soyadı: {}'.format(self.name))
+        print('Adres: {}'.format(self.address))
+
+class Worker(Employee)
