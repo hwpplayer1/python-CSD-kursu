@@ -1,0 +1,10 @@
+class Sample:
+    def foo(self):
+        print('parametresiz foo')
+
+    def foo(self, a):
+        print('parametreli foo')
+
+s = Sample()
+s.foo(10)                 # geçerli
+# s.foo()                 # error!
