@@ -13,6 +13,3 @@ class Sample:
 
 s = Sample()
 s.disp()
-
-k = Sample()
-k.disp()
