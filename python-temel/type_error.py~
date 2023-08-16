@@ -1,0 +1,6 @@
+def foo():
+    return 10 + 'ali'
+
+try:
+    print('enters the try statement...')
+    foo()
