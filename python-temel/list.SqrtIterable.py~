@@ -1,0 +1,5 @@
+l = list(SqrtIterable(100))
+
+for f in l:
+    print(f)
+print()
