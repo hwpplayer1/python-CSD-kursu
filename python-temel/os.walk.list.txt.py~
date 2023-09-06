@@ -1,0 +1,9 @@
+import os
+
+try:
+    f = open('list.txt', 'w')
+    for root, dirs, files in os.walk('/'):
+        f.write(root + '\n')
+    f.close()
+except:
+    print('file cannot open!')
