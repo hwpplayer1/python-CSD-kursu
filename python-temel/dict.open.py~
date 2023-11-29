@@ -1,8 +1,0 @@
-d = dict()
-with open('test.txt', 'r') as f:
-    for line in f:
-        if line.strip() == '':
-            continue
-        l = line.split(',')
-        d[1[0]] = l[1].strip()
-        print(d)

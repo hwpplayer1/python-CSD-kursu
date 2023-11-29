@@ -1,3 +1,0 @@
-import inspect
-
-print(inspect.getmro(C))

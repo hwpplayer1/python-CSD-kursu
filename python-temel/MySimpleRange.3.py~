@@ -1,7 +1,0 @@
-r = MySimpleRange(10)
-
-for i in r:
-    print(i, end=' ')
-print()
-for i in r:
-    print(i, end=' ')

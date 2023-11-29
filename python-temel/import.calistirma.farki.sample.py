@@ -1,3 +1,0 @@
-# sample.py
-
-import test

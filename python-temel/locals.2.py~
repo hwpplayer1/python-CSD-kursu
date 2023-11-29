@@ -1,8 +1,0 @@
-def foo():
-    a = 10
-    d = locals()
-    d['b'] = 100
-
-    print(b)
-
-foo()
