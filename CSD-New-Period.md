@@ -1,6 +1,6 @@
 # CSD New Period
 
-CSD kaynaklarının(Kaan Aslan hocamızın) notlarını baştan çalışacağız.
+CSD kaynaklarının(Kaan Aslan hocamızın) notlarını baştan çalışacağız. Orjinal kod yazımı hedeflenmektedir.
 
 # Dersin kapsamı
 
