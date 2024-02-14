@@ -1,5 +1,7 @@
 2024-02-14  Mert Gör  <mertgor@masscollabs.xyz>
 
+	* python-temel/Python.pdf: 1.5. Temel Bilgisayar Mimarisi konusu
+
 	* .gitignore: Emacs için gitignore eklendi
 
 	* python-temel/.gitignore: gitignore Emacs ve Python çıktıları için eklendi
