@@ -4,7 +4,6 @@ C ve Sistem Programcıları Derneğinin sunduğu Python derslerinden hareketle y
 
 https://github.com/CSD-1993/KursNotlari adresine bakabilirsiniz.
 
-# License
+## License
 
 Kaan Aslan'ın Python notlarından faydalanılmıştır.
-
