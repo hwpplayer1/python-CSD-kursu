@@ -1,3 +1,12 @@
+2024-06-09  Mert Gör  <mertgor@masscollabs.xyz>
+
+	* python/Python.pdf: Değiştirilemez (Immutable) ve Değiştirilebilir (Mutable) Tür Kavramı
+
+Burada a'ya ikinci kez değer atandığında (üstelik aynı türden) bu değer a'nın eskiden gösterdiği yere atanmamaktadır.
+Başka bir deyişle 123 nesnesi bir int nesnedir. Onun değeri yaratıldıktan sonra bir daha asla değiştirilmeyecektir. 456
+değeri 123 silinerek o nesneye atanmaz. 456 değeri için yeni bir int nesne yaratılır. Artık a o yeni int nesneyi gösterir
+duruma gelir.
+
 2024-06-08  Mert Gör  <mertgor@masscollabs.xyz>
 
 	* python/Python.pdf: Python'da Adres Kavramı sayfa 21
