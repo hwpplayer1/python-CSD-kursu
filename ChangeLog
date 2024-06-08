@@ -1,6 +1,6 @@
 2024-06-08  Mert Gör  <mertgor@masscollabs.xyz>
 
-	
+	* python/Python.pdf: 2. Python Programlama Diline Giriş kısmına kadar olan konular tek tek ayrı çalışma projelerinde ele alınacak.
 	* python/Python.pdf: 1.8. Çevirici Programlar (Translators), Derleyiciler (Compilers) ve Yorumlayıcılar (Interpreters) konusu GCC ve LLVM kapsamında tekrar ele alınacak
 	* python/Python.pdf: Temel Bilgisayar Mimarisi konusunu Sistem Programlama ve Assembly dersleri kapsamında da ele alacağız.
 
