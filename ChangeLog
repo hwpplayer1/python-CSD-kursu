@@ -1,5 +1,7 @@
 2024-06-09  Mert Gör  <mertgor@masscollabs.xyz>
 
+	* python/while_example.py: while örneği yazıldı
+
 	* python/Python.pdf: del Deyimi sayfa 105
 	* python/Python.pdf: Stringler sayfa 94
 	* python/Python.pdf: Sözlükler (Dictionaries) sayfa 87 
