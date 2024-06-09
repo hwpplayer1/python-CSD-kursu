@@ -1,5 +1,8 @@
 2024-06-09  Mert Gör  <mertgor@masscollabs.xyz>
 
+	* python/dict_for_loop.py: Sınıf Çalışması: Bir sözlüğü for döngüsüyle dolaşarak anahtarları elde ediniz. Yeni bir sözlük yaratarak dolaştığınız
+sözlüğün değerlerini anahtar, anahtarlarını değer haline getiriniz. Sonra da her iki sözlüğü yazdırınız.
+
 	* python/Python.pdf: For döngüleri sayfa 126
 
 	* python/for_example.py: For örneği yazıldı
