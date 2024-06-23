@@ -1,3 +1,9 @@
+2024-06-23  hwpplayer1  <hwpplayer1@debian>
+
+	* python/match.py: match example
+
+	* python/Python.pdf: Koşul operatörü sayfa 138
+
 2024-06-17  hwpplayer1  <hwpplayer1@debian>
 
 	* python/Python.pdf: CSD (PSD) shell example written page 133
