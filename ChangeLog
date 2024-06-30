@@ -1,6 +1,8 @@
 2024-06-30  hwpplayer1  <hwpplayer1@debian>
 
-	* python/csd_case_match.py: CSD shell script match case example written
+	* python/csd_case_match_2.py: CSD Shell Script match case example (as x) written
+
+	* Python/csd_case_match.py: CSD shell script match case example written
 
 2024-06-23  hwpplayer1  <hwpplayer1@debian>
 
