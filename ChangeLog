@@ -1,3 +1,7 @@
+2024-07-29  hwpplayer1  <hwpplayer1@debian>
+
+	* python/Python.pdf: pass Deyimi sayfa 137
+
 2024-06-30  hwpplayer1  <hwpplayer1@debian>
 
 	* python/csd_case_match_2.py: CSD Shell Script match case example (as x) written
