@@ -1,5 +1,7 @@
 2025-02-22  Mert Gör  <mertgor@masscollabs.xyz>
 
+	* python/Python.pdf: Değiştirilemez (Immutable) ve Değiştirilebilir (Mutable) Tür Kavramı sayfa 25
+
 	* python/Python.pdf: Python'da Atama İşlemleri sayfa 24
 
 	* python/Pyhton.pdf: Python'da Değişkenlerin Anlamı sayfa 23
