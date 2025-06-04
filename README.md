@@ -1,4 +1,4 @@
-# python-CSD-kursu
+# Python Kursu
 
 C ve Sistem Programcıları Derneğinin sunduğu Python derslerinden hareketle yazılan örnekler Kaynak Kaan Aslan'ın Python notlarından faydalanılmıştır. Python Temel, Python ile Uygulamalar ve "Yapay Zeka Makine öğrenmesi veri bilimi kurslarını" kurslarını kapsayacak şekilde yazılacaktır.
 
