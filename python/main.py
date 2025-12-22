@@ -1,12 +1,4 @@
-# Python Kursu
-
-C ve Sistem Programcıları Derneğinin sunduğu Python derslerinden hareketle yazılan örnekler Kaynak Kaan Aslan'ın Python notlarından faydalanılmıştır. Python Temel, Python ile Uygulamalar ve "Yapay Zeka Makine öğrenmesi veri bilimi kurslarını" kurslarını kapsayacak şekilde yazılacaktır.
-
-https://github.com/CSD-1993/KursNotlari adresine bakabilirsiniz.
-
-Experimental 2026 dalında özgün kodlar olduğundan AGPLv3-or-later lisansı atanmıştır.
-
-## License
+"""
 
 Copyright (C) 2025-2026 QB Networks
 
@@ -22,3 +14,5 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
+"""
+
