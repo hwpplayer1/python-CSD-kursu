@@ -1,3 +1,7 @@
+2026-04-30  Mert Gör  <mertgor@qbnetworks.xyz>
+
+	* python/main.py: an example break / if code 
+
 2026-04-29  Mert Gör  <mertgor@qbnetworks.xyz>
 
 	* python/Python.pdf: Döngü Deyimleri(Loop Statements)
