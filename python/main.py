@@ -22,10 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 
-i = 0
-while i < 10:
-    print(i)
-    i += 1
-    if i == 8:
-        break
-print("end of line")
+a = [1,2,3]
+
+for i in a:
+    print(i, end='\n')
