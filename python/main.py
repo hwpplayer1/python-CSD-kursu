@@ -33,5 +33,3 @@ while True:
     if count == x:
         break
     
-    
-    
