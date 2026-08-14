@@ -1,5 +1,5 @@
 """
-Experimental code from Google ai
+Experimental code while True, if and related
 
 MIT License
 
