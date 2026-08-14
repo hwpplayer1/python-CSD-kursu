@@ -23,36 +23,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
-import os
+
+x = 10
+count = 0
 
 while True:
-    # Girdiyi komut ve dosya adı olarak ikiye bölüyoruz
-    user_input = input('PSD>').strip().split(maxsplit=1)
+    print(x)
+    count += 1
+    if count == x:
+        break
     
-    if not user_input:
-        continue
-        
-    cmd = user_input[0]
-    # Eğer yanına bir şey yazıldıysa target değişkenine atıyoruz
-    target = user_input[1] if len(user_input) > 1 else None
-
-    match cmd:
-        case 'delete' | 'remove' | 'erase':
-            if target:
-                try:
-                    if os.path.exists(target):
-                        os.remove(target)
-                        print(f'"{target}" dosyası başarıyla silindi.')
-                    else:
-                        print(f'Hata: "{target}" adında bir dosya bulunamadı.')
-                except Exception as e:
-                    print(f'İşlem sırasında bir hata oluştu: {e}')
-            else:
-                print("Lütfen silinecek dosya adını belirtin: delete dosya.txt")
-                
-        case 'exit' | 'quit':
-            print("Çıkış yapılıyor...")
-            break
-            
-        case _:
-            print('Geçersiz komut. (delete, copy, rename, exit)')
+    
+    
